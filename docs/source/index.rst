@@ -1,10 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to Sanchay's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Sanchay** (/səⁿcəj/) is a collection of tools and APIs, particularly annotation interfaces, written mainly in Java. It can useful for purposes of Natural Language Processing, especially linguistic annotation. It has been used for creating syntactico-semantic treebanks many languages, in particular Indian languages.
+
+It is an open source project hosted on GitHub <https://github.com/NLPSanchay/>`_
+and, among other things, offers a *simple* and *intuitive* linguistic annotation interface.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
